@@ -2,11 +2,11 @@
 
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="cordova-plugin-dgram"
-    version="0.1.5">
+    id="cordova-plugin-dgram-broadcast"
+    version="0.1.6">
     <name>UDP Plugin</name>
     <description>Cordova-Plugin which supports node.js dgram API</description>
-    <keywords>UDP, Multicast, Datagram, dgram</keywords>
+    <keywords>UDP, Multicast, Datagram, dgram, broadcast</keywords>
     <license>MIT</license>
     <repo>https://github.com/andischerer/cordova-plugin-dgram.git</repo>
     <issue>https://github.com/andischerer/cordova-plugin-dgram/issues</issue>
